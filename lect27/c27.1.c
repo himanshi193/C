@@ -1,7 +1,5 @@
 //bitwise question
 //find xor
-
-
 #include<stdio.h>
 int main(){
     int arr[5]={4,5,3,4,5};
@@ -12,11 +10,7 @@ int main(){
     }
     printf("%d",xor);
 }
-
-
 //bitwise swapping without using any 3rd varaible
-
-
 #include<stdio.h>
 int main(){
     int a=5,b=3;
@@ -26,7 +20,6 @@ int main(){
     a=a^b;
     printf("after swapping a=%d and b=%d\n",a,b);
 }
-
 //find missing number in given array
 #include<stdio.h>
 int main(){
