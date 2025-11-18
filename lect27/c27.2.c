@@ -43,3 +43,5 @@ int main(){
     printf("original value of a=%d\n",a);
     printf(" after right shift by 2=%d\n",result) ;
 }
+
+//

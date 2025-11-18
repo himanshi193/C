@@ -36,3 +36,4 @@ int main(){
     }
     printf("%d",xor1^xor2);
 }
+//
